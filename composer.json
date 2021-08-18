@@ -1,0 +1,22 @@
+{
+    "name": "krypt0nn/php-blueprints",
+    "description": "php blueprints",
+    "keywords": [],
+    "version": "1.0.0",
+    "homepage": "https://github.com/KRypt0nn/php-blueprints",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Nikita Podvirnyy",
+            "email": "suimin.tu.mu.ga.mi@gmail.com",
+            "homepage": "https://github.com/KRypt0nn",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    },
+    "autoload": {
+        "files": ["blueprints.php"]
+    }
+}
